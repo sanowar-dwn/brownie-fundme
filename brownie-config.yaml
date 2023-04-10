@@ -8,6 +8,5 @@ compiler:
       - '@chainlink=smartcontractkit/chainlink-brownie-contracts@1.2.0'
 
 dotenv: .env
-
 wallets:
   from_key: ${PRIVATE_KEY}
